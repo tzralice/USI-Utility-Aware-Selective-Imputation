@@ -79,3 +79,7 @@ The code assumes tabular datasets in `dataset/`:
     - `dataset/income/develop.csv`
     - `dataset/income/validation.csv`
     - `dataset/income/test.csv`
+
+### Citation
+
+TBC
